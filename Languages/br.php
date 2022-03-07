@@ -17,7 +17,7 @@ return [
   'nl' => 'Dutch',
   'es' => 'Spanish',
   'pt' => 'Português',
-  'pt-br' => 'Português do Brasil',
+  'br' => 'Português do Brasil',
   'fr' => 'French',
   'it' => 'Italian',
   'ru' => 'Russian',
@@ -68,10 +68,10 @@ return [
   'billing_balance' => 'Saldo de cobrança',
   'admin_area' => 'Área de administração',
   'dark_mode' => 'Modo escuro',
-  'light_mode' => 'Light Mode',
+  'light_mode' => 'Modo Claro',
   'logout' => 'Fechar Sessão',
-  'register' => 'Register',
-  'login' => 'Login',
+  'register' => 'Registrar',
+  'login' => 'Entrar',
  
   // Cart
   'checkout' => 'Concluir Compra',
@@ -141,14 +141,14 @@ return [
   'error' => 'Erro',
 
   // Domain
-  'subdomain_integration' => 'Subdomain support',
-  'server_ip_address' => 'Server IP Address',
-  'memory' => 'Memory',
-  'plan' => 'Plan',
-  'plan_subdomain' => 'Plan subdomain',
-  'zone' => 'Zone',
-  'invoices' => 'Invoices',
-  'plan_error' => 'Your plan does not support creating a subdomain',
+  'subdomain_integration' => 'Suporte do Subdomínio',
+  'server_ip_address' => 'IP do Server',
+  'memory' => 'Memoria',
+  'plan' => 'Plano',
+  'plan_subdomain' => 'Subdominio do plano',
+  'zone' => 'Zona',
+  'invoices' => 'Nota Fiscal',
+  'plan_error' => 'O seu plano não suporta a criação de um subdomínio',
 
   // Portal
   'portal_sw_mode' => 'Mudar Modo',
